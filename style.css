@@ -1,18 +1,24 @@
-*{
-    margin: 0;
+* {
+  margin: 0;
 }
-.main{
-    background-color: black;
-    color: white;
-    height: auto;
-    width: 270px;
-    padding: 20px;
-    border-radius: 10px;
-    text-align: center;
-    margin: auto;
+.main {
+  background-color: black;
+  color: white;
+  height: auto;
+  width: 270px;
+  padding: 20px;
+  border-radius: 10px;
+  text-align: center;
+  margin: auto;
 }
-.btn{
-    height: auto;
-    width: 40px;
-
+.btn {
+  height: auto;
+  width: 40px;
+  color: black;
+}
+#display {
+  width: 230px;
+  height: 38px;
+  background-color: white;
+  border-radius: 5px;
 }
